@@ -1,6 +1,7 @@
 # Spacestagram by Mariel Hoepelman
 
 [Click here to see the app live](https://spacestagram-mariel-hoepelman.herokuapp.com/)
+
 Spacestagram is an instagram-like app that uses the NASA API to display pictures from the Mars rover.
 
 ## Features
